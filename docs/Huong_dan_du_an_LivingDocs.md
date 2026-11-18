@@ -6,3 +6,4 @@
 - [x] Xây dựng RESTful API Backend
 - [x] Tích hợp cơ sở dữ liệu & GitHub OAuth
 - Hello World !
+- Cập nhật trực tiếp từ GitHub
