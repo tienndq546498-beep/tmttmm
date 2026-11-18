@@ -5,3 +5,4 @@
 - [x] Thiết kế giao diện Frontend
 - [x] Xây dựng RESTful API Backend
 - [x] Tích hợp cơ sở dữ liệu & GitHub OAuth
+- Hello World !
